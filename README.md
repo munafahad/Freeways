@@ -28,7 +28,7 @@ Using the Application:
   * To run the application using Eclipse:
     1. Setup Cassandra by following the instructions in this URL: http://wiki.apache.org/cassandra/GettingStarted
     2. Create a keyspace and column families using CreateSchema.java file
-    3. Upload the data into the tables using SSTableBuilder.java, COPY command or insert statements. (The following files contains the data: detectorid.csv, firstdetector1.csv, firstdetector2.csv, speed.csv and station_loopdata.csv)
+    3. Upload the data into the tables using SSTableBuilder.java, COPY command or insert statements. (The following files contain the data: detectorid.csv, firstdetector1.csv, firstdetector2.csv, speed.csv and station_loopdata.csv)
     4. Download the GitHub project and import it in Eclipse. (Main files are: CassandraConnector.java, CreateSchema.java, FindRoute.java, QueryHighSpeed.java, QueryTravelTime.java, QueryVolume.java and SSTableBuilder.java)
     5. Add the needed libraries, which are: 
       - junit-3.8.1.jar
