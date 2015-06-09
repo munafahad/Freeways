@@ -5,7 +5,7 @@ CS510: Cloud and Cluster Data Management
 
 Project Goal and Description:
 -------------------------------
-  The goal of this project is to design and implement a small Freeways system using data from "Multimodal Test Data Set Clean-up for Portland Oregon Metropolitan Region", and using NoSQL database. We used Cassandra NoSQL database in this project. In this project, we designed and implemented six queries that help in performing different operations on the Freeways' systems. 
+  The goal of this project is to design and implement a small Freeways system using data from "Multimodal Test Data Set Clean-up for Portland Oregon Metropolitan Region", and using NoSQL database. We used Cassandra NoSQL database in this project. In this project, we designed and implemented four queries that help in performing different operations on the Freeways' systems. 
   The implemented queries are:
     
     - Count high speeds: By founding the number of speeds > 100 in the data set
@@ -28,8 +28,8 @@ Using the Application:
   * To run the application using Eclipse:
     1. Setup Cassandra by following the instructions in this URL: http://wiki.apache.org/cassandra/GettingStarted
     2. Create a keyspace and column families using CreateSchema.java file
-    3. Upload the data into the tables using SSTableBuilder.java or insert statements. (The following files contains the data: detectorid.csv, firstdetector1.csv, firstdetector2.csv, speed.csv and station_loopdata.csv)
-    4. Download the GitHub project and import it in eclips. (Main files are: CassandraConnector.java, CreateSchema.java, FindRoute.java, QueryHighSpeed.java, QueryTravelTime.java, QueryVolume.java and SSTableBuilder.java)
+    3. Upload the data into the tables using SSTableBuilder.java, COPY command or insert statements. (The following files contains the data: detectorid.csv, firstdetector1.csv, firstdetector2.csv, speed.csv and station_loopdata.csv)
+    4. Download the GitHub project and import it in Eclipse. (Main files are: CassandraConnector.java, CreateSchema.java, FindRoute.java, QueryHighSpeed.java, QueryTravelTime.java, QueryVolume.java and SSTableBuilder.java)
     5. Add the needed libraries, which are: 
       - junit-3.8.1.jar
       - com.datastax.cassandra-2.0.1.jar
