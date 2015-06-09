@@ -18,7 +18,7 @@ Project Goal and Description:
 
 Needed Software:
 -------------------------------
- - Cassandra 
+ - Cassandra 2.0.14
  - Java 6, 7 or 8
  - Eclipse
 
