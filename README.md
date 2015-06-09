@@ -1,5 +1,4 @@
 # Freeways
-# Freeways
 
 CS510: Cloud and Cluster Data Management
 -------------------------------
