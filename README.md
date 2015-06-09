@@ -1,6 +1,6 @@
 # Freeways
 
-CS510: Cloud and Cluster Data Management
+CS410/510: Cloud and Cluster Data Management
 -------------------------------
 
 Project Goal and Description:
