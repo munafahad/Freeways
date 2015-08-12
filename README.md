@@ -50,12 +50,7 @@ Using the Application:
 
 
 
-This system is designed and developed by:
------------------------------------------
-  - Kamakshi Nagar
-  - Muna Alfahad
-  - Renu Thottan
-  - Srividya Sundaram
+
   
   
 
