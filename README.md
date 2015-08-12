@@ -52,9 +52,3 @@ Using the Application:
 
 
   
-  
-
-Acknowledgments:
------------------
-We would like to thank Professor Kristin Tufte and Professor David Maier for their help and guidance in the Cloud and Cluster Data Management course and project.
-
